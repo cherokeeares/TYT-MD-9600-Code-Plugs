@@ -4,6 +4,7 @@ Current CPS Version is V01.26
 
 
 MD-9600 Config File Changes that you MUST make in the software:
+
   General Settings -> Intro Screen Line 1 -> Enter Callsign
   
   General Settings -> Intro Screen Line 2 -> Enter DMR ID
